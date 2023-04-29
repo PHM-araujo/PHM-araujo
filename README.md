@@ -20,5 +20,3 @@
   
 </div>
 
-![Snake animation](https://github.com/PHM-araujo)
-
